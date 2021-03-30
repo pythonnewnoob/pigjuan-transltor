@@ -1,0 +1,15 @@
+饭圈缩写翻译器（中文=>缩写）。例子：
+
+# 假设在当前目录下有一个文件叫origin，里面写着这个项目的README
+
+python3 pigjuan-translator.py origin
+
+# 输出：
+
+    FQSXFYQ（ZW=>SX）。LZ：
+
+    # JSZDQMLXYYGWJJORIGIN，LMXZZGXMDREADME
+
+    PYTHON3 PIGJUAN-TRANSLATOR.PY ORIGIN
+
+    # SC：
